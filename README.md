@@ -191,6 +191,7 @@ Add it to your website, README, or launch post:
 | [GrackerAI](https://gracker.ai/blog/black-friday-deals?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI search visibility (AEO and GEO) for cybersecurity and B2B SaaS | **20% OFF** · code `BF2026` · Individual $99/mo → $79.20/mo | Nov 11, 2026 - Dec 15, 2026 |
 | [OutlierKit](https://outlierkit.com/app/pricing?utm_source=twf-github&utm_campaign=bfcm26) | YouTube research: find videos that beat a channel's usual views, research keywords and study competitors · MCP server and API on Pro and Max | **40% OFF** any plan, including lifetime · code `BFCM40` (Pro annual $599 → $359.40) | Nov 12, 2026 - Dec 5, 2026 |
 | [Citation Rocket](https://www.citationrocket.com/pricing?utm_source=twf-nikhila&utm_medium=bf_list&utm_campaign=bf2026) | Checks if GPT, Claude, Gemini, Perplexity and Grok name your brand, then ranks the fixes to get cited | ♾️ **40% OFF** lifetime licence, $99 → $59 (Agency $149 → $89) · auto-applied | Nov 12, 2026 - Dec 2, 2026 |
+| [CopyJump](https://copyjump.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Helps you get more customers from Google and AI search, for your site or your clients | 💸 **$40 off** the first invoice · 1 site $79 → $39 · auto-applied, code `BLACKFRIDAY26` · first-time orders, limited redemptions | Nov 13, 2026 - Dec 1, 2026 |
 
 ## 📣 Marketing, Social & Lead Gen
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
